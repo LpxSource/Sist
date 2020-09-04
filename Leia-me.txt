@@ -2,7 +2,7 @@
 *		Repositório 		*
 *		   para			*
 *	  Técnicas de programação	*
-*	     Banco de dados I		*
+*	     Banco de dados I e II	*
 *	   Programação I e II		*
 *****************************************
 Aberto para quem desejar uma fonte de pesquisa e apoio.
