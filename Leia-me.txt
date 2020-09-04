@@ -1,7 +1,7 @@
 *****************************************
 *		Repositório 		*
 *		   para			*
-*	  Tecnicas de programação	*
+*	  Técnicas de programação	*
 *	     Banco de dados I		*
 *	   Programação I e II		*
 *****************************************
